@@ -1,0 +1,73 @@
+[{
+    "id" : 1,
+    "marca" : "Fierce",
+    "modelo" : "FM18SI29AM211",
+    "rodado" : "16",
+    "anio" : "2019",
+    "color" : "celeste",
+    "peso" : "13",
+    "tipo" : "Montaniera",
+    "precio" : 1500,
+    "vendida" : "si"
+},
+{
+    "id" : 2,
+    "marca" : "Shifter",
+    "modelo" : "FM18SI29AM211",
+    "rodado" : "26",
+    "anio" : "2020",
+    "color" : "negro",
+    "peso" : "15",
+    "tipo" : "Paseo",
+    "precio" : 500,
+    "vendida" : "no"
+},
+{
+    "id" : 3,
+    "marca" : "Olmo",
+    "modelo" : "FM18SI29AM211",
+    "rodado" : "16",
+    "anio" : "2019",
+    "color" : "celeste",
+    "peso" : "13",
+    "tipo" : "Montaniera",
+    "precio" : 5000,
+    "vendida" : "si"
+},
+{
+    "id" : 4,
+    "marca" : "Battle",
+    "modelo" : "FM18SI29AM211",
+    "rodado" : "16",
+    "anio" : "2019",
+    "color" : "celeste",
+    "peso" : "13",
+    "tipo" : "Montaniera",
+    "precio" : 2000,
+    "vendida" : "no"
+},
+{
+    "id" : 5,
+    "marca" : "TopMega",
+    "modelo" : "FM18SI29AM211",
+    "rodado" : "16",
+    "anio" : "2019",
+    "color" : "celeste",
+    "peso" : "13",
+    "tipo" : "Montaniera",
+    "precio" : 4500,
+    "vendida" : "si"
+},
+{
+    "id" : 6,
+    "marca" : "SLP",
+    "modelo" : "FM18SI29AM211",
+    "rodado" : "16",
+    "anio" : "2019",
+    "color" : "celeste",
+    "peso" : "13",
+    "tipo" : "Montaniera",
+    "precio" : 3000,
+    "vendida" : "no"
+}]
+

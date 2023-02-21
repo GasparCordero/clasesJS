@@ -1,0 +1,36 @@
+[{
+    "marca" : "Bandai",
+    "nombre" : ["Gamora"],
+    "precio" : 1200,
+    "stock" : 13
+},
+{
+    "marca" : "Bandai",
+    "nombre" : ["Hulk"],
+    "precio" : 1200,
+    "stock" : 13
+},
+{
+    "marca" : "Bandai",
+    "nombre" : ["Thor"],
+    "precio" : 1200,
+    "stock" : 13
+},
+{
+    "marca" : "Bandai",
+    "nombre" : ["Vegeta"],
+    "precio" : 1200,
+    "stock" : 13
+},
+{
+    "marca" : "Bandai",
+    "nombre" : ["Sailor Pluto"],
+    "precio" : 1200,
+    "stock" : 13
+},
+{
+    "marca" : "Bandai",
+    "nombre" : ["Sailor Saturn"],
+    "precio" : 1200,
+    "stock" : 13
+}]
